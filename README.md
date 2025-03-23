@@ -2,6 +2,11 @@
 
 A simple web-based calculator application built using HTML, CSS, and JavaScript. This calculator allows users to perform basic arithmetic operations.
 
+<img width="391" alt="Image" src="https://github.com/user-attachments/assets/a67fd73c-c01d-4edf-b38c-6d8377537377" />
+
+## Live Demo
+
+Website Link: https://afreen1663.github.io/Calculator-App/
 ## Features
 - Basic arithmetic operations: Addition, Subtraction, Multiplication, and Division
 - Clear (C) button to reset calculations
@@ -16,13 +21,13 @@ A simple web-based calculator application built using HTML, CSS, and JavaScript.
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/calculator-app.git
+   git clone https://github.com/Afreen1663/Calculator-App.git
    ```
 2. Navigate to the project directory:
    ```sh
    cd calculator-app
    ```
-3. Open `index1.html` in a browser to use the calculator.
+3. Open `index.html` in a browser to use the calculator.
 
 ## Usage
 1. Click on the buttons to enter numbers and perform operations.
@@ -70,5 +75,3 @@ buttons.forEach((button) => {
 - Add support for scientific functions (sin, cos, log, etc.)
 - Implement keyboard input support
 - Improve UI with animations and themes
-
-Let me know if you need any modifications! 🚀
